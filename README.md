@@ -84,3 +84,15 @@ Proyecto personal y experimental. Puede cambiar con frecuencia y no está garant
 ## Licencia
 
 Añadir una licencia antes de publicar redistribuciones públicas o contribuciones externas.
+
+## Uso directo con la versión portable
+
+La carpeta `portable` ya contiene el ejecutable listo para usar:
+
+```text
+portable\Conversor-Markdown.exe
+```
+
+En Windows, abre esa carpeta y haz doble clic en `Conversor-Markdown.exe`. Mantén junto al ejecutable la carpeta `portable\_internal` y no ejecutes el `.exe` desde una ubicación distinta sin esa carpeta.
+
+No necesitas tener Python, crear un entorno virtual ni ejecutar scripts de instalación para usar la versión portable.
